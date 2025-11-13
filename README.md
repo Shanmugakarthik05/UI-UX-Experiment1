@@ -21,13 +21,21 @@ To explore and apply the fundamentals of UI and UX, distinguish between UI and U
 8. Evaluation: Collect and analyze feedback, refine the design, and ensure alignment with user needs and business goals.
 ## Output:
 ![alt text](image.png)
+
 ![alt text](image-1.png)
+
 ![alt text](image-2.png)
+
 ![alt text](image-3.png)
+
 ![alt text](image-4.png)
+
 ![alt text](image-5.png)
+
 ![alt text](image-6.png)
+
 ![alt text](image-7.png)
+
 ![alt text](image-8.png)
 ## Result:
 A user-centered UI/UX design process delivers a well-tested, visually appealing, and highly usable product that satisfies end users’ needs.
